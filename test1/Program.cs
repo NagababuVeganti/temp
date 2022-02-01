@@ -10,7 +10,7 @@ namespace test1
             Console.WriteLine("Merged String {0}", merged);
         }
 
-
+        
         private static string Combine(string s1, string s2)
         {
             return "";
